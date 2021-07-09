@@ -27,7 +27,7 @@ image_config: &image_config
 
   POSTGRES_CLIENT: false
 
-  DOCKERIZE: false
+  DOCKERIZE: true
 
   BROWSERS: false
 
