@@ -6,7 +6,7 @@ image_config: &image_config
 
   IMAGE_NAME: website
 
-  IMAGE_TAG: latest
+  IMAGE_TAG: 1.0.0
 
   # NOTE: if you're modifying this config.yml file manually
   # rather than using the included setup script,
